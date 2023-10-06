@@ -53,7 +53,7 @@ Mariya Dimitrova, Jorrit Poelen, Georgi Zhelezov, Teodor Georgiev, Donat Agosti,
 
 [https://doi.org/10.3897/biss.4.59036](https://doi.org/10.3897/biss.4.59036)
 
-Scholarly literature is the primary source for biodiversity knowledge based on observations, field work, analysis and taxonomic classification. Publishing such literature in semantically enhanced formats (e.g., through Extensible Markup Language (XML) tagging) helps to make this knowledge easily accessible and available to humans and actionable by computers. A recent collaboration between Pensoft Publishers and Global Biotic Interactions (GloBI) (Poelen et al. 2014) demonstrates how semantically published literature can be used to extract species interactions from tables published in the article narratives
+Scholarly literature is the primary source for biodiversity knowledge based on observations, field work, analysis and taxonomic classification. Publishing such literature in semantically enhanced formats (e.g., through Extensible Markup Language (XML) tagging) helps to make this knowledge easily accessible and available to humans and actionable by computers. A recent collaboration between Pensoft Publishers and Global Biotic Interactions (GloBI) (Poelen et al. 2014) demonstrates how semantically published literature can be used to extract species interactions from tables published in the article narratives.
  
 ### Streamlined Conversion of Omics Metadata into Manuscript Facilitates Publishing and Reuse of Omics Data
 
@@ -79,11 +79,4 @@ Mariya Dimitrova, Viktor Senderov, Teodor Georgiev, Georgi Zhelezov, Lyubomir Pe
 
 [https://doi.org/10.3897/biss.3.35089](https://doi.org/10.3897/biss.3.35089)
 
-OpenBiodiv is a knowledge management system containing biodiversity knowledge extracted from scholarly literature: both recently published articles in Pensoft's journals and legacy (taxon treatments extracted by Plazi) (Senderov et al. 2017). OpenBiodiv advances our understanding of the use of scientific names, collection codes and institutions within published literature by using semantic technologies, such as the conversion of XML-encoded text to RDF triples, linked via the OpenBiodiv-O onthology (Senderov et al. 2018). In this poster, we show how OpenBiodiv, currently containing more than 729 million statements, can be used to address a specific use case: finding institutions storing type material specimens of the genus Prosopistoma from various literature sources (Fig. 1). This use case is important for various groups of users: institutions, taxonomists, and curators. Answering this complex question is made possible through the application of semantic technologies within OpenBiodiv
-
-
-
-📈 My **Public** github stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=howkins&show_icons=true&theme=white">
-
+OpenBiodiv is a knowledge management system containing biodiversity knowledge extracted from scholarly literature: both recently published articles in Pensoft's journals and legacy (taxon treatments extracted by Plazi) (Senderov et al. 2017). OpenBiodiv advances our understanding of the use of scientific names, collection codes and institutions within published literature by using semantic technologies, such as the conversion of XML-encoded text to RDF triples, linked via the OpenBiodiv-O onthology (Senderov et al. 2018). In this poster, we show how OpenBiodiv, currently containing more than 729 million statements, can be used to address a specific use case: finding institutions storing type material specimens of the genus Prosopistoma from various literature sources (Fig. 1). This use case is important for various groups of users: institutions, taxonomists, and curators. Answering this complex question is made possible through the application of semantic technologies within OpenBiodiv.
